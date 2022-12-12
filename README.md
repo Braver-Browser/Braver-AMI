@@ -3,7 +3,7 @@
 
 # <p align="center">Braver</p>
 ## <p align="center"> What is Braver 🤔</p> 
-<p align="center">1. Braver is a browser like anybrowsers.</p>
+<p align="center">Braver is a browser made for more safe/protect while browsing.</p>
 
 ## <p align="center"> Why Braver? 🤔</p>
 <p align="center">1. Braver Has Braver-Shield</p>
